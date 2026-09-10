@@ -1,1 +1,1 @@
-FROM ghcr.io/mshafae/tusk-jammy-min:latest
+FROM ghcr.io/pinventado/26-resolute-small-tusk
